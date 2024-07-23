@@ -1,3 +1,5 @@
-write hello world
+Write this in record -->>
 
-execute operations +-/*
+-> write hello world
+
+-> execute operations +-/*
